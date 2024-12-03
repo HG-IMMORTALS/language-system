@@ -1,0 +1,119 @@
+div.mediabox {
+  float: left;
+  background: #000000;
+  padding: 5px;
+  margin: 5px;
+  #font-size: 0.8em;
+  filter: alpha(opacity=92);
+  opacity: 0.92;
+}
+
+div.git_data_message {
+	clear: left;
+	float: left;
+	width: 600px;
+	padding: 5px;
+}
+
+div.git_data_date {
+	float: left;
+	width: 180px;
+	padding: 5px;
+}
+
+div.git_data_user {
+	float: left;
+	width: 160px;
+	padding: 5px;
+}
+
+div.git_data_email {
+	float: left;
+	width: 280px;
+	padding: 5px;
+}
+
+div.git_data_id {
+	float: left;
+	width: 360px;
+	padding: 5px;
+}
+
+label {
+	font-weight:bold;
+	width:100px;
+	font-size:14px;
+}
+
+.box {
+	border:#666666 solid 1px;
+}
+
+a.complex {
+  color: #000000;
+  text-decoration: none;
+}
+
+div.controlbox {
+  float: left;
+  background: #202020;
+  padding: 12px;
+  margin: 4px;
+  border-radius: 5px;
+}
+
+div.infobox {
+  float: left;
+  background: #202020;
+  padding: 12px;
+  margin: 4px;
+  border-radius: 5px;
+}
+
+div.previewbox {
+  clear: left;
+  float: left;
+  background: #202020;
+  padding: 12px;
+  margin: 4px;
+  border-radius: 5px;
+}
+
+div.outputbox {
+  float: left;
+  background: #202020;
+  padding: 12px;
+  margin: 4px;
+  border-radius: 5px;
+  line-height: 1.6;
+}
+
+form.form {
+  margin-bottom: 0px;
+}
+
+div.smalltextpreviewbox {
+  float: left;
+  background: #202020;
+  padding: 8px;
+  margin: 0px;
+  width: 340px;
+  height: 184px;
+  font-size: 0.8em;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #ffffff;
+}
+
+div.textpreviewbox {
+  float: left;
+  background: #202020;
+  font-size: 0.9em;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  clear: left;
+  background: #202020;
+  padding: 12px;
+  margin: 4px;
+  border-radius: 5px;
+}
